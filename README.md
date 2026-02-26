@@ -30,7 +30,7 @@ I enjoy building dashboards, predictive models, and real-world analytics solutio
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Analytics-blue?style=for-the-badge)
-
+![django](https://img.shields.io/badge/Data%20Analysis-Analytics-blue?style=for-the-badge)
 ### 🤖 Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Modeling-red?style=for-the-badge)
