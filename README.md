@@ -119,6 +119,42 @@ My focus is building systems that connect **AI models, backend APIs, relational 
 
 ---
 
+
+### 🧠 Machine Learning, Model Evaluation & Application Reliability
+
+![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![Random Forest](https://img.shields.io/badge/Random_Forest-166534?style=for-the-badge)
+![Logistic Regression](https://img.shields.io/badge/Logistic_Regression-1E40AF?style=for-the-badge)
+![Decision Trees](https://img.shields.io/badge/Decision_Trees-15803D?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-7C2D12?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression-6D28D9?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-0F172A?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-0369A1?style=for-the-badge)
+![Data Validation](https://img.shields.io/badge/Data_Validation-065F46?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🔐 Backend Reliability & API Engineering
+
+![JSON Response Handling](https://img.shields.io/badge/JSON_Response_Handling-111827?style=for-the-badge)
+![Secure API Key Handling](https://img.shields.io/badge/Secure_API_Key_Handling-991B1B?style=for-the-badge)
+![Environment Variables](https://img.shields.io/badge/Environment_Variables-374151?style=for-the-badge)
+![Input Validation](https://img.shields.io/badge/Input_Validation-065F46?style=for-the-badge)
+![Error Handling](https://img.shields.io/badge/Error_Handling-B91C1C?style=for-the-badge)
+![API Response Handling](https://img.shields.io/badge/API_Response_Handling-1D4ED8?style=for-the-badge)
+![Authentication](https://img.shields.io/badge/Authentication-7F1D1D?style=for-the-badge)
+![User Management](https://img.shields.io/badge/User_Management-312E81?style=for-the-badge)
+
+### ✅ Data Quality, Testing & Warehouse Validation
+
+![dbt Tests](https://img.shields.io/badge/dbt_Tests-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Airflow DAGs](https://img.shields.io/badge/Airflow_DAGs-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Schema Validation](https://img.shields.io/badge/Schema_Validation-0F766E?style=for-the-badge)
+![Duplicate Detection](https://img.shields.io/badge/Duplicate_Detection-92400E?style=for-the-badge)
+![Referential Integrity](https://img.shields.io/badge/Referential_Integrity-1E3A8A?style=for-the-badge)
+![KPI Reporting](https://img.shields.io/badge/KPI_Reporting-1D4ED8?style=for-the-badge)
+![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-7C3AED?style=for-the-badge)
+
+
 ## ⚙️ Backend Development & API Engineering
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
